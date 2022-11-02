@@ -1,0 +1,47 @@
+/* on indique le liens pour la police*/
+*{
+    font-family: 'Eczar', serif;
+}
+/* on change la couleur sur body donc de facon globale sur la page*/
+body{
+    background-color: rgb(145, 183, 195); /* couleur de fond*/
+    color:  rgb(253, 254, 254);  /*couleur de texte*/
+}
+/*changer la couleur des titre h2*/   
+h2{
+    text-decoration: underline;
+    color: rgb(181, 216, 151);
+}
+/*changer la couleur des titres h3*/
+h3{
+    text-decoration: underline;
+    color:rgb(194, 213, 178);
+
+}
+/* changer la couleur des éléments de la liste formation*/
+.blocformation li {
+    color: rgb(243, 201, 65);
+}
+/*modifier pour souligner le p dans formation*/
+.blocformation p {
+    text-decoration: underline;
+}
+/*changer la couleur des éléments de la liste dipolmes*/
+.blocdiplomes li {
+    color: rgb(243, 201, 65);    
+}
+/*changer la couleur de la liste expériences pro*/
+.exppro li {
+    color: rgb(243, 201, 65); 
+}
+/*changer la couleur de la listes langues*/
+.langue li {
+    color: rgb(243, 201, 65);  
+}
+/*changer la couleur du contenu de la section autre*/
+.autre p {
+    color: rgb(243, 201, 65);  
+} 
+
+
+
